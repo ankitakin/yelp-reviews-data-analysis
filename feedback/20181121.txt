@@ -1,0 +1,10 @@
+1. Business composition of every state - comparison
+2. what kind of food they prefer - different states
+3. if the rest of the states comprise less than 1%, may be forget it
+4. maybe get rid of attributes below cutoff for no of businesses
+5. keep percentages in graphs
+6. find connection between review text, score, time of review and review
+7. to move outliers or not, to think about
+8. how many inconsistent data - review count in user table and no of reviews in review table
+9. distribution by hour , sorted by hour
+10. what kind of users get more useful compliments

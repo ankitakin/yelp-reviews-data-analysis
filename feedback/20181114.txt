@@ -1,0 +1,6 @@
+1. NLP for reviews
+2. find popular categories in cities - for example city - most popular cuisine
+3. User behavior by location - check in times, categories
+4. Between friends - do they go to similar places
+5. Frequency of reviews by user per month
+6. check-in time by category
